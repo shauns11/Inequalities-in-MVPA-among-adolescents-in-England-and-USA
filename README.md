@@ -1,6 +1,6 @@
 # **Income-based inequalities in self-reported moderate-to-vigorous physical activity among adolescents in England and the USA: a cross-sectional study**
 
-*BMJ Open 2021:11:e040540*
+*BMJ Open* 2021:11:e040540.
 
 Shaun Scholes<sup>1</sup> and Jennifer S Mindell<sup>1</sup> 
 
